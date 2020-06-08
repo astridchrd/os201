@@ -1,37 +1,15 @@
-## Astrid Chaerida
+## Astrid Chaerida's Repository
 
-[Link apa hayo](https://astridchrd.github.io/os201/URLs) 
+This is a repository for support my OS course’s.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Profil
+![Image](https://i.ibb.co/SwDLfgJ/232114.jpg)
 
-### Markdown
+Responsible, well-dicipline, careful,  and have interest to learn something new especially business IT. Kind of information system student.Currently on the fourth semester.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### URLs
+[URLs](https://astridchrd.github.io/os201/URLs)
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/astridchrd/os201/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+### Kontak
+- [Linkedin](https://www.linkedin.com/in/astrid-chaerida)
+- [Instagram](https://www.instagram.com/astridchrd/)
