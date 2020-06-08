@@ -16,3 +16,6 @@ Nama saya Astrid Chaerida. Kini mahasiswa tingkat 2 jurusan Sistem Informasi, Un
 ### Kontak
 - [Linkedin](https://www.linkedin.com/in/astrid-chaerida)
 - [Instagram](https://www.instagram.com/astridchrd/)
+
+### Notes
+Dalam pembuatan github pages ini saya GSGS dan tanya sana tanya sini.
