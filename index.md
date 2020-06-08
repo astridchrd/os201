@@ -1,6 +1,6 @@
 ## Astrid Chaerida
 
-[Link apa hayo](https://astridchrd.github.io/os201/url) 
+[Link apa hayo](https://astridchrd.github.io/os201/URLs) 
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
