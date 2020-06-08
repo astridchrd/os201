@@ -1,6 +1,6 @@
 ## Astrid Chaerida
 
-[Link apa hayo](https://github.com/astridchrd/os201/edit/master/url.md) to maintain and preview the content for 
+[Link apa hayo](https://github.com/astridchrd/os201/edit/master/url) to maintain and preview the content for 
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
