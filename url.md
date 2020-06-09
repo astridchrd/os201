@@ -9,7 +9,7 @@ Sistem Operasi adalah perangkat lunak sistem yang mengatur sumber daya dari hard
 - [Blog Dosen Pak Rahmat M. Samik Ibrahim](https://rahmatm.samik-ibrahim.vlsm.org/)
 - [Youtube Playlist Perkuliahan selama COVID-19](https://os.vlsm.org/playlists/) berupa video pembelajaran perkuliahan.
 - [Pemograman Socket dengan C](https://docplayer.info/32672006-Pemrograman-socket-dengan-c.html)
-- [FUSE Tutorial] (https://www.cs.nmsu.edu/~pfeiffer/fuse-tutorial/html/index.html)
+- [FUSE Tutorial](https://www.cs.nmsu.edu/~pfeiffer/fuse-tutorial/html/index.html)
 
 ## Note
 Halaman ini juga hadir sebagai hasil dari Google Sana Google Sini serta tanya sana tanya sini. Semoga berguna!
