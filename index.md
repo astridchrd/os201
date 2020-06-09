@@ -1,14 +1,16 @@
 ## Astrid Chaerida's Repository
 
-Repositori ini ada sebagai pendukung dalam menjalani perkuliahan Sistem Operasi 2020/2021. Berisi log mingguan dan juga beberapa berkas untuk keperluan UAS.
+Repositori ini ada sebagai pendukung dalam menjalani perkuliahan Sistem Operasi 2020/2021. Berisi log mingguan dan juga beberapa berkas untuk keperluan UAS. 
+Github pages ini hadir untuk memenuhi tugas UAS yang diberikan dosen Sistem Operasi.
 
 ### Profil
 ![Image](https://i.ibb.co/SwDLfgJ/232114.jpg)
 
 Nama saya Astrid Chaerida. Kini mahasiswa tingkat 2 jurusan Sistem Informasi, Universitas Indonesia.
 
-### URLs
-[URLs](https://astridchrd.github.io/os201/URLs)
+### Apa itu Sistem Operasi?
+Untuk mengetahui lebih lanjut apa itu Sistem Operasi, klik link berikut
+[Sistem Operasi](https://astridchrd.github.io/os201/URLs)
 
 ### Portofolio
 [gitlab](https://gitlab.com/astridchrd)
